@@ -1,7 +1,7 @@
 // Problem: Network Delay Time
 // Platform: Leetcode (Problem 743)
 // Approach: Dijkstra's Algorithm using Min-Heap
-// Author: [Your Name or GitHub handle] 🚀
+// Author: [Ridham Garg or irythmgarg] 🚀
 
 class Solution {
 public:
